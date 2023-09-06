@@ -47,7 +47,7 @@ npm install -g newman-reporter-htmlextra
    	3. > Content Type
    	4. > Respose time
 
-3. ### (Get Booking) Verify Crated Booking Details
+3. ### (Get Booking) Verify Created Booking Details
 	> In the test case you need to validate the following field values:
  	1. > Status Code
  	2. > First Name
