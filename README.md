@@ -47,32 +47,57 @@ npm install -g newman-reporter-htmlextra
    3. Content Type
    4. Respose time
 
-2. ### (Get Booking) Verify Crated Booking Details
+3. ### (Get Booking) Verify Crated Booking Details
 	> In the test case you need to validate the following field values:
- 	1. > First Name
- 	2. > Last Name
-   3. > Totalprice
-   4. > Depositpaid
-   5. > Checkin date
-   6. > Checkout date
-   7. > Json schema
-
-3. ### Update Booking
-	> In the test case you need to validate the following field values:
- 	1. > Only status code
-     
-4. ### (Get updated Booking) Verify Updated Student Details
-	> In the test case you need to validate the following field values:
-	1. > First Name
- 	2. > Last Name
- 	3. > Date of Birth
+ 	1. > Status Code
+ 	2. > First Name
+ 	3. > Last Name
    4. > Totalprice
    5. > Depositpaid
    6. > Checkin date
+   7. > Checkout date
+   8. > Json schema
+
+4. ### Token Generator
+   	> In the test case you need to validate the following field values:
+    	1. > Status Code
+    	2. > Check if token is present
+	3. > Response time
+
+5. ### Update Partial Booking
+	> In the test case you need to validate the following field values:
+ 	1. > Status code
+     
+6. ### (Get partial updated Booking) Verify partial Updated Booking Details
+	> In the test case you need to validate the following field values:
+ 	1. > Status Code
+ 	2. > First Name
+ 	3. > Last Name
+        4. > Totalprice
+        5. > Depositpaid
+
+7. ### Update Full Booking
+   	> Create Data Sets Using the Dynamic Random Variables and verify the follwings:
+ 	1. Status coode
+   	2. Body string
+  	3. Content Type
+  	4. Respose time
+     
+8. ### (Get fully updated Booking) Verify fully Updated Booking Details
+	> In the test case you need to validate the following field values:
+ 	1. > Status Code
+ 	2. > First Name
+ 	3. > Last Name
+   4. > Totalprice
+   5. > Depositpaid
+   6. > Checkin date
+   7. > Checkout date
+   8. > Json schema
 
 5. ### Delete Booking
 	> In the test case you need to validate the following field values:
-	1. > Only Message
+ 	1. > Status code
+	2. > Message
 
 ## Newman Report Summary:
 ![Newman Report Summary](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/39287503-29ac-469a-bfaa-bc4a52be8416)
