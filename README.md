@@ -60,8 +60,8 @@ npm install -g newman-reporter-htmlextra
 
 4. ### Token Generator
 	> In the test case you need to validate the following field vlaues:
- 	1. > Status Code
-    	2. > Check if token is present
+ 	1. Status Code
+    	2. Check if token is present
 
 6. ### Update Partial Booking
 	> In the test case you need to validate the following field values:
