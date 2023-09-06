@@ -40,17 +40,22 @@ npm install -g newman-reporter-htmlextra
    > In the test case you need to validate the following field values:
    1. Status code
 
-1. ### Create Booking
-	> Create Data Sets Using the Dynamic Random Variables.
+2. ### Create Booking
+   > Create Data Sets Using the Dynamic Random Variables and verify the follwings:
+   1. Status coode
+   2. Body string
+   3. Content Type
+   4. Respose time
 
 2. ### (Get Booking) Verify Crated Booking Details
 	> In the test case you need to validate the following field values:
  	1. > First Name
  	2. > Last Name
- 	3. > Date of Birth
-   4. > Totalprice
-   5. > Depositpaid
-   6. > Checkin date
+   3. > Totalprice
+   4. > Depositpaid
+   5. > Checkin date
+   6. > Checkout date
+   7. > Json schema
 
 3. ### Update Booking
 	> In the test case you need to validate the following field values:
