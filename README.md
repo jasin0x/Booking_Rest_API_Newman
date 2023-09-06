@@ -96,7 +96,17 @@ npm install -g newman-reporter-htmlextra
 9. ### Delete Booking
 	> In the test case you need to validate the following field values:
  	1. > Status code
-	2. > Message
+	2. > Message.
+    
+##   Negative test case
+
+10. ### Get booking details invalid ID
+        > In the test case you need to validate the following field values:
+ 	1. > Status code
+
+11. ### Create booking invalid character
+	> In the test case you need to validate the following field values:
+ 	1. > Status code
 
 ## Newman Report Summary:
 ![Newman Report Summary](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/39287503-29ac-469a-bfaa-bc4a52be8416)
