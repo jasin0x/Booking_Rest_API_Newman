@@ -101,10 +101,10 @@ npm install -g newman-reporter-htmlextra
 ##   Negative test case
 
 10. ### Get booking details invalid ID
-        > In the test case you need to validate the following field values:
+    > In the test case you need to validate the following field values:
  	1. > Status code
 
-11. ### Create booking invalid character
+12. ### Create booking invalid character
 	> In the test case you need to validate the following field values:
  	1. > Status code
 
