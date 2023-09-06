@@ -64,11 +64,11 @@ npm install -g newman-reporter-htmlextra
      
     	2. Check if token is present
 
-6. ### Update Partial Booking
+5. ### Update Partial Booking
 	> In the test case you need to validate the following field values:
  	1. > Status code
      
-7. ### (Get partial updated Booking) Verify partial Updated Booking Details
+6. ### (Get partial updated Booking) Verify partial Updated Booking Details
 	> In the test case you need to validate the following field values:
  	1. > Status Code
  	2. > First Name
@@ -76,14 +76,14 @@ npm install -g newman-reporter-htmlextra
  	4. > Totalprice
 	5. > Depositpaid
 
-8. ### Update Full Booking
+7. ### Update Full Booking
    	> Create Data Sets Using the Dynamic Random Variables and verify the follwings:
  	1. Status coode
    	2. Body string
   	3. Content Type
   	4. Respose time
      
-9. ### (Get fully updated Booking) Verify fully Updated Booking Details
+8. ### (Get fully updated Booking) Verify fully Updated Booking Details
 	> In the test case you need to validate the following field values:
  	1. > Status Code
  	2. > First Name
@@ -94,7 +94,7 @@ npm install -g newman-reporter-htmlextra
    	7. > Checkout date
   	8. > Json schema
 
-5. ### Delete Booking
+9. ### Delete Booking
 	> In the test case you need to validate the following field values:
  	1. > Status code
 	2. > Message
