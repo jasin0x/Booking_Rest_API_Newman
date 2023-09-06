@@ -114,10 +114,16 @@ npm install -g newman-reporter-htmlextra
 ![Newman Report Summary](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/1429318a-7f43-41e6-ae36-f39f8f4911dd)
 
 ## Performance Test using postman
-   > Virtual User: 100
-   > Duration: 180 Seconds
+
+   > Virtual User: 100,
+   > Duration: 180 Seconds,
    > Ramp up period: 60 Seconds 
 
 ### Performance graph
 
 ![image](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/5cc0d952-c837-4e69-bad3-844e18725948)
+
+### Performance details for total duration 
+
+![image](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/2f8f86e2-6fce-49c5-865c-bc42e03a3df3)
+
