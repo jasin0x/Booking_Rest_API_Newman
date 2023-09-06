@@ -59,7 +59,7 @@ npm install -g newman-reporter-htmlextra
    	8. > Json schema
 
 4. ### Token Generator
-   	> In the test case you need to validate the following field values:
+   > In the test case you need to validate the following field values:
     	1. > Status Code
     	2. > Check if token is present
 
