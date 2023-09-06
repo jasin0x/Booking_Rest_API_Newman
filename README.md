@@ -1,4 +1,4 @@
-# Booking_Rest_API_Newman
+# Booking_Rest_API_Postman & Newman
 
 ## How to run this project
 - Clone this project
