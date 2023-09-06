@@ -33,7 +33,7 @@ npm install -g newman-reporter-htmlextra
 ```
 
 ## API Documentation:
-- [https://documenter.getpostman.com/view/13082503/2s93Xwz4Az](https://documenter.getpostman.com/view/28914312/2s9XxyRDsN#28baaf7f-5ea0-473e-9815-b37845fd62ca)
+- https://documenter.getpostman.com/view/28914312/2s9YBxaGxA
 
 ## Test case list:
 1. ### Get Booking Ids
