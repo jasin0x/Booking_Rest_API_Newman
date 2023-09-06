@@ -73,8 +73,8 @@ npm install -g newman-reporter-htmlextra
  	1. > Status Code
  	2. > First Name
  	3. > Last Name
-4. > Totalprice
-5. > Depositpaid
+  4. > Totalprice
+  5. > Depositpaid
 
 8. ### Update Full Booking
    	> Create Data Sets Using the Dynamic Random Variables and verify the follwings:
