@@ -109,7 +109,6 @@ npm install -g newman-reporter-htmlextra
  	1. > Status code
 
 ## Newman Report Summary:
-![Newman Report Summary](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/39287503-29ac-469a-bfaa-bc4a52be8416)
-)
+![Newman Report Summary](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/44a96c57-38a3-411e-9154-b7162f163dc3)
 
 ![Newman Report Summary](https://github.com/jasin0x/Booking_Rest_API_Newman/assets/46416678/0ed33abe-6d60-4525-bcf9-c443284bceb1)
