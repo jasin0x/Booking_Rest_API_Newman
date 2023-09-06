@@ -9,7 +9,7 @@ newman run API_Testing_101.postman_collection.json -e ENV_101.postman_environmen
 ```
 - Run Command for Report: 
 ```console 
-newman run API_Testing_101.postman_collection.json -e ENV_101.postman_environment.json -r cli,htmlextra
+newman run Rest_Booking_API.postman_collection.json -e Rest_Booking_API_ENV.postman_environment.json -r cli,htmlextra
 ```
 
 ## Technology used:
