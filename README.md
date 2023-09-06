@@ -36,6 +36,10 @@ npm install -g newman-reporter-htmlextra
 - [https://documenter.getpostman.com/view/13082503/2s93Xwz4Az](https://documenter.getpostman.com/view/28914312/2s9XxyRDsN#28baaf7f-5ea0-473e-9815-b37845fd62ca)
 
 ## Test case list:
+1. ### Get Booking Ids
+   > In the test case you need to validate the following field values:
+   1. Status code
+
 1. ### Create Booking
 	> Create Data Sets Using the Dynamic Random Variables.
 
